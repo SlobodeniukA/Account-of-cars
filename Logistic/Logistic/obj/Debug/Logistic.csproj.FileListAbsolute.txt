@@ -1,0 +1,58 @@
+C:\Users\anton\source\repos\Logistic\Logistic\bin\Debug\Logistic.exe.config
+C:\Users\anton\source\repos\Logistic\Logistic\bin\Debug\Logistic.exe
+C:\Users\anton\source\repos\Logistic\Logistic\bin\Debug\Logistic.pdb
+C:\Users\anton\source\repos\Logistic\Logistic\obj\Debug\Logistic.csprojResolveAssemblyReference.cache
+C:\Users\anton\source\repos\Logistic\Logistic\obj\Debug\Logistic.Form1.resources
+C:\Users\anton\source\repos\Logistic\Logistic\obj\Debug\Logistic.Properties.Resources.resources
+C:\Users\anton\source\repos\Logistic\Logistic\obj\Debug\Logistic.csproj.GenerateResource.cache
+C:\Users\anton\source\repos\Logistic\Logistic\obj\Debug\Logistic.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Logistic\Logistic\obj\Debug\Logistic.exe
+C:\Users\anton\source\repos\Logistic\Logistic\obj\Debug\Logistic.pdb
+C:\Users\anton\source\repos\Logistic\Logistic\obj\Debug\Logistic.AddForm.resources
+C:\Users\anton\source\repos\Logistic\Logistic\obj\Debug\Logistic.loginForm.resources
+C:\Users\anton\source\repos\Logistic\Logistic\obj\Debug\Logistic.SplashScreen.resources
+C:\Users\anton\source\repos\Logistic\Logistic\obj\Debug\Logistic.regestrationForm.resources
+C:\Users\anton\Desktop\Logistic\Logistic\bin\Debug\logisticDB.mdf
+C:\Users\anton\Desktop\Logistic\Logistic\bin\Debug\logisticDB_log.ldf
+C:\Users\anton\Desktop\Logistic\Logistic\bin\Debug\Logistic.exe.config
+C:\Users\anton\Desktop\Logistic\Logistic\bin\Debug\Logistic.exe
+C:\Users\anton\Desktop\Logistic\Logistic\bin\Debug\Logistic.pdb
+C:\Users\anton\Desktop\Logistic\Logistic\obj\Debug\Logistic.AddForm.resources
+C:\Users\anton\Desktop\Logistic\Logistic\obj\Debug\Logistic.loginForm.resources
+C:\Users\anton\Desktop\Logistic\Logistic\obj\Debug\Logistic.MainForm.resources
+C:\Users\anton\Desktop\Logistic\Logistic\obj\Debug\Logistic.Properties.Resources.resources
+C:\Users\anton\Desktop\Logistic\Logistic\obj\Debug\Logistic.regestrationForm.resources
+C:\Users\anton\Desktop\Logistic\Logistic\obj\Debug\Logistic.SplashScreen.resources
+C:\Users\anton\Desktop\Logistic\Logistic\obj\Debug\Logistic.csproj.GenerateResource.cache
+C:\Users\anton\Desktop\Logistic\Logistic\obj\Debug\Logistic.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Logistic\Logistic\obj\Debug\Logistic.exe
+C:\Users\anton\Desktop\Logistic\Logistic\obj\Debug\Logistic.pdb
+C:\Users\anton\Desktop\Logistic\Logistic\obj\Debug\Logistic.csprojResolveAssemblyReference.cache
+C:\Users\anton\Desktop\Logistic\Logistic\obj\Debug\Logistic.truncateForm.resources
+C:\Users\anton\Desktop\Logistic\Logistic\obj\Debug\Logistic.usersControlForm.resources
+C:\Users\anton\Desktop\Logistic\Logistic\obj\Debug\Logistic.editAutoForm.resources
+C:\Users\anton\Desktop\Logistic\Logistic\obj\Debug\Logistic.routeForm.resources
+C:\Users\anton\Desktop\Logistic\Logistic\obj\Debug\Logistic.editDriverForm.resources
+C:\Users\anton\Desktop\Logistic\Logistic\obj\Debug\Logistic.csproj.ResolveComReference.cache
+C:\Users\anton\Desktop\Слободенюк Антон\Logistic\Logistic\bin\Debug\logisticDB.mdf
+C:\Users\anton\Desktop\Слободенюк Антон\Logistic\Logistic\bin\Debug\logisticDB_log.ldf
+C:\Users\anton\Desktop\Слободенюк Антон\Logistic\Logistic\bin\Debug\Logistic.exe.config
+C:\Users\anton\Desktop\Слободенюк Антон\Logistic\Logistic\bin\Debug\Logistic.exe
+C:\Users\anton\Desktop\Слободенюк Антон\Logistic\Logistic\bin\Debug\Logistic.pdb
+C:\Users\anton\Desktop\Слободенюк Антон\Logistic\Logistic\obj\Debug\Logistic.csprojResolveAssemblyReference.cache
+C:\Users\anton\Desktop\Слободенюк Антон\Logistic\Logistic\obj\Debug\Logistic.csproj.ResolveComReference.cache
+C:\Users\anton\Desktop\Слободенюк Антон\Logistic\Logistic\obj\Debug\Logistic.AddForm.resources
+C:\Users\anton\Desktop\Слободенюк Антон\Logistic\Logistic\obj\Debug\Logistic.editAutoForm.resources
+C:\Users\anton\Desktop\Слободенюк Антон\Logistic\Logistic\obj\Debug\Logistic.editDriverForm.resources
+C:\Users\anton\Desktop\Слободенюк Антон\Logistic\Logistic\obj\Debug\Logistic.loginForm.resources
+C:\Users\anton\Desktop\Слободенюк Антон\Logistic\Logistic\obj\Debug\Logistic.MainForm.resources
+C:\Users\anton\Desktop\Слободенюк Антон\Logistic\Logistic\obj\Debug\Logistic.Properties.Resources.resources
+C:\Users\anton\Desktop\Слободенюк Антон\Logistic\Logistic\obj\Debug\Logistic.regestrationForm.resources
+C:\Users\anton\Desktop\Слободенюк Антон\Logistic\Logistic\obj\Debug\Logistic.routeForm.resources
+C:\Users\anton\Desktop\Слободенюк Антон\Logistic\Logistic\obj\Debug\Logistic.SplashScreen.resources
+C:\Users\anton\Desktop\Слободенюк Антон\Logistic\Logistic\obj\Debug\Logistic.truncateForm.resources
+C:\Users\anton\Desktop\Слободенюк Антон\Logistic\Logistic\obj\Debug\Logistic.usersControlForm.resources
+C:\Users\anton\Desktop\Слободенюк Антон\Logistic\Logistic\obj\Debug\Logistic.csproj.GenerateResource.cache
+C:\Users\anton\Desktop\Слободенюк Антон\Logistic\Logistic\obj\Debug\Logistic.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Слободенюк Антон\Logistic\Logistic\obj\Debug\Logistic.exe
+C:\Users\anton\Desktop\Слободенюк Антон\Logistic\Logistic\obj\Debug\Logistic.pdb
